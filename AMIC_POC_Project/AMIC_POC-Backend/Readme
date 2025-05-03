@@ -1,0 +1,23 @@
+1. Get All POIs
+http://localhost:5000/api/pois
+
+2.Post POIs
+http://localhost:5000/api/pois
+
+3.Put POIs
+http://localhost:5000/api/pois/:id
+example:
+http://localhost:5000/api/pois/6815fcfca6d2c4fdb64119da
+
+4.Patch POIs
+http://localhost:5000/api/pois/:id
+example:
+http://localhost:5000/api/pois/6815fcfca6d2c4fdb64119da
+
+5.Delete POIs
+http://localhost:5000/api/pois/:id
+example:
+http://localhost:5000/api/pois/6815fcfca6d2c4fdb64119da
+
+
+
